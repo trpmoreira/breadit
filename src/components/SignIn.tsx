@@ -8,7 +8,7 @@ const SignIn = () => {
       <div className="flex flex-col space-y-2 text-center">
         <Icons.logo className="w-6 h-6 mx-auto" />
         <h1 className="text-2xl font-semibold tracking-tight">Welcome back</h1>
-        <p className="text-sm max-w-xs">
+        <p className="text-sm max-w-xs mx-auto">
           By continuing, you agree to our User Agreement and Privacy Policy.
         </p>
 
